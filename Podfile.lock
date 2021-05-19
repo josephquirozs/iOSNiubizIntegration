@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.3)
+  - VisaNetSDKiOS (1.3.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - VisaNetSDKiOS
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - VisaNetSDKiOS
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  VisaNetSDKiOS: 9b134938585f887267b31222b4e26c81df536e32
+
+PODFILE CHECKSUM: c18538372d420037e9d603d40015cd204c9f7a79
+
+COCOAPODS: 1.10.1

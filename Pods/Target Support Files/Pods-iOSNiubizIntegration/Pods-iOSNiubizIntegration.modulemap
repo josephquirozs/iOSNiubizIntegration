@@ -1,0 +1,6 @@
+framework module Pods_iOSNiubizIntegration {
+  umbrella header "Pods-iOSNiubizIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
